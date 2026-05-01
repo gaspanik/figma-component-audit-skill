@@ -82,7 +82,7 @@ cp -r skills/figma-component-audit ~/.claude/skills/
 
 **3. Verify the Figma MCP is connected**
 
-This skill requires the official [Figma MCP server](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-Server). Confirm it is connected in your Claude Code settings before running the skill.
+This skill requires the official [Figma MCP server](https://github.com/figma/mcp-server-guide). Confirm it is connected in your Claude Code settings before running the skill.
 
 **4. Run the audit**
 
@@ -161,4 +161,4 @@ Missing: Disabled variant
 
 ---
 
-Built by Masaaki Komori · [@cipher](https://x.com/cipher) · Skill for [Claude Code](https://claude.ai/code) + [Figma MCP](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-Server)
+Built by Masaaki Komori · [@cipher](https://x.com/cipher) · Skill for [Claude Code](https://claude.ai/code) + [Figma MCP](https://github.com/figma/mcp-server-guide)
